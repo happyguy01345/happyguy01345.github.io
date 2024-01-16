@@ -3,14 +3,14 @@
     src: url(NotoSans-VariableFont_wdth\,wght.ttf);
 }
 :root {
-    --accent: #a3e4e6; /* For large effects or grander gradients */
+    --accent: #6bdfe2; /* For large effects or grander gradients */
     --accent_dark: #3a80ba;
-    --primary: #a4a2d1; /* For highlighting text or making smaller gradient effects */
+    --primary: #715ac3; /* For highlighting text or making smaller gradient effects */
     --primary_dark: #502e94;
-    --secondary: #4d44e2; /* For small text effects or an alternate background */
+    --secondary: #aba9e0; /* For small text effects or an alternate background */
     --secondary_dark: #2ca399;
     --text: #ffffff; /* For text on the base background */
-    --background: #465c77; 
+    --background: #1e2732; 
     --blue_accent: #498BFC; /* For hover effects */
     --blue_accent_dark: #2d4d7e;
 }
