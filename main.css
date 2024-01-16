@@ -5,11 +5,11 @@
 :root {
     --accent: #90cdff; /* For large effects or grander gradients */
     --accent_dark: #3a80ba;
-    --primary: #7141d1; /* For highlighting text or making smaller gradient effects */
+    --primary: #c7db6e; /* For highlighting text or making smaller gradient effects */
     --primary_dark: #502e94;
     --secondary: #38c2b6; /* For small text effects or an alternate background */
     --secondary_dark: #2ca399;
-    --text: #000000; /* For text on the base background */
+    --text: #ffffff; /* For text on the base background */
     --background: #0C1110; 
     --blue_accent: #498BFC; /* For hover effects */
     --blue_accent_dark: #2d4d7e;
